@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="359.83334mm"
+   height="203.2mm"
+   viewBox="0 0 359.83335 203.2"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="docker pull.svg.2022_07_06_12_17_14.0.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.43087089"
+     inkscape:cx="541.92568"
+     inkscape:cy="482.74322"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-27.355263,-99.434212)">
+    <path
+       id="rect48273"
+       style="fill:#1c2224;fill-opacity:1;stroke-width:0.428739"
+       d="M 139.45233,99.434212 V 302.63421 H 387.18862 V 99.434212 Z" />
+    <rect
+       style="fill:#d7eef4;fill-opacity:1;stroke-width:0.239299"
+       id="rect15971"
+       width="112.09707"
+       height="203.2"
+       x="27.355263"
+       y="99.434212" />
+    <g
+       id="g6907"
+       transform="translate(0.73022356,5.1268122)">
+      <path
+         id="path30569"
+         style="fill:#2497ed;stroke:none;stroke-width:0.0371134"
+         d="m 81.480362,176.32789 c -0.15255,-0.005 -0.30272,0.002 -0.41961,0.0496 -0.26859,0.10944 -0.18759,0.52161 -0.18759,0.75189 v 1.89291 c 0,0.2084 -0.0681,0.56666 0.0904,0.73019 0.1709,0.1763 0.64808,0.0863 0.87488,0.0863 h 1.89239 c 0.23804,0 0.59159,0.0651 0.81494,-0.0227 0.26172,-0.10295 0.18758,-0.49841 0.18758,-0.71986 v -1.89239 c 0,-0.20338 0.0674,-0.56222 -0.0651,-0.73225 -0.16341,-0.20971 -0.6294,-0.12144 -0.86299,-0.12144 h -1.89291 c -0.12487,0 -0.27946,-0.0172 -0.43202,-0.0222 z m -4.56406,4.22971 c -0.15325,-0.005 -0.30413,0.002 -0.41806,0.0507 -0.24525,0.10543 -0.17105,0.53945 -0.17105,0.75189 v 1.8557 c 0,0.21039 -0.0654,0.55918 0.0765,0.7338 0.16593,0.20413 0.5991,0.11989 0.83251,0.11989 h 1.96732 c 0.23155,0 0.60558,0.0702 0.8139,-0.0439 0.23044,-0.12619 0.1509,-0.5162 0.1509,-0.73536 v -1.89291 c 0,-0.19509 0.0705,-0.56731 -0.0646,-0.72605 -0.15447,-0.18159 -0.64788,-0.0904 -0.86351,-0.0904 h -1.89239 c -0.12261,0 -0.27825,-0.0179 -0.4315,-0.0233 z m 4.39508,0 c -0.10942,0.003 -0.21043,0.0194 -0.28525,0.0615 -0.22866,0.12871 -0.15297,0.52311 -0.15297,0.74104 v 1.8557 c 0,0.20338 -0.0674,0.56172 0.0651,0.73174 0.16341,0.20973 0.6294,0.12195 0.86299,0.12195 h 1.96681 c 0.23567,0 0.60062,0.0673 0.81183,-0.0543 0.2255,-0.12975 0.15348,-0.50774 0.15348,-0.72553 v -1.8924 c 0,-0.20838 0.0681,-0.56718 -0.0904,-0.7307 -0.1666,-0.17184 -0.61722,-0.0858 -0.83767,-0.0858 h -1.96681 c -0.13994,0 -0.34474,-0.029 -0.5271,-0.0233 z m -8.99687,5.2e-4 c -0.15326,-0.005 -0.30466,0.001 -0.41858,0.0501 -0.23864,0.10265 -0.15244,0.54413 -0.15244,0.75189 v 1.8557 c 0,0.20056 -0.0697,0.56646 0.0594,0.7338 0.15865,0.20546 0.60319,0.11989 0.83147,0.11989 h 1.96681 c 0.23155,0 0.6061,0.0702 0.81442,-0.0439 0.23043,-0.12619 0.15037,-0.5162 0.15037,-0.73536 v -1.89291 c 0,-0.19509 0.0705,-0.56731 -0.0646,-0.72605 -0.15447,-0.18159 -0.64737,-0.0904 -0.863,-0.0904 h -1.8929 c -0.12259,0 -0.27772,-0.0174 -0.43099,-0.0227 z m 20.856094,0.99064 c -0.01581,4.3e-4 -0.03147,0.003 -0.04651,0.008 -0.135279,0.0451 -0.228515,0.24962 -0.304374,0.35966 -0.24621,0.35725 -0.456713,0.74846 -0.619085,1.15084 -0.524335,1.29927 -0.742045,2.76449 -0.29197,4.11964 0.123364,0.37136 0.259678,0.8325 0.544152,1.11311 v 0.0372 c -2.076381,1.06226 -4.758512,0.66818 -7.014557,0.66818 h -14.06581 -4.78782 c -0.59794,0 -1.47714,-0.16345 -2.00401,0.16898 -0.49368,0.31149 -0.51935,0.78956 -0.51935,1.31516 0,0.76257 0.0612,1.50687 0.14624,2.26395 0.39462,3.515 2.04105,7.465 5.45755,8.98653 2.00516,0.89299 4.20845,1.21529 6.38359,1.29553 5.3726,0.19822 11.002908,-1.19372 14.876611,-5.13716 1.346288,-1.37056 2.455902,-2.95626 3.336232,-4.66224 0.313238,-0.60678 0.60161,-1.2276 0.869196,-1.85571 0.120621,-0.28314 0.205385,-0.6743 0.394293,-0.91777 0.119504,-0.15435 0.418229,-0.0765 0.591177,-0.0925 0.517731,-0.048 1.027094,-0.0835 1.532203,-0.22014 1.672702,-0.45238 3.232606,-1.69545 3.637516,-3.44578 -0.3214,-0.21965 -0.60235,-0.45974 -0.96532,-0.61495 -1.303796,-0.55752 -2.641146,-0.42105 -4.008028,-0.31317 -0.108741,-1.36407 -0.988592,-2.65704 -2.004013,-3.51554 -0.256082,-0.21649 -0.527745,-0.39695 -0.816488,-0.56638 -0.08508,-0.05 -0.210756,-0.14872 -0.321426,-0.14572 z m -25.347804,3.20445 c -0.15231,-0.005 -0.30267,0.002 -0.42065,0.0491 -0.26751,0.10681 -0.20515,0.51979 -0.20515,0.7519 v 1.89239 c 0,0.20472 -0.0619,0.55889 0.0832,0.72657 0.1568,0.1813 0.64618,0.0899 0.86352,0.0899 h 1.89239 c 0.24517,0 0.62176,0.0705 0.84956,-0.0274 0.23864,-0.10265 0.15296,-0.54414 0.15296,-0.75189 v -1.8557 c 0,-0.20057 0.0692,-0.56647 -0.0599,-0.73381 -0.16245,-0.2104 -0.63387,-0.11989 -0.86817,-0.11989 h -1.8557 c -0.1257,0 -0.27971,-0.0163 -0.43201,-0.0212 z m 4.52789,0 c -0.15231,-0.005 -0.30267,0.002 -0.42065,0.0491 -0.27163,0.10849 -0.18655,0.51857 -0.18655,0.75138 v 1.89291 c 0,0.1951 -0.0705,0.56731 0.0646,0.72605 0.15447,0.18159 0.64789,0.0904 0.86352,0.0904 h 1.89239 c 0.24517,0 0.62176,0.0705 0.84956,-0.0274 0.23864,-0.10265 0.15244,-0.54414 0.15244,-0.75189 v -1.8557 c 0,-0.20057 0.0697,-0.56647 -0.0594,-0.73381 -0.16245,-0.2104 -0.63387,-0.11989 -0.86817,-0.11989 h -1.8557 c -0.1257,0 -0.27971,-0.0163 -0.43201,-0.0212 z m 4.60178,0 c -0.1523,-0.005 -0.30266,0.001 -0.42064,0.0486 v 5.1e-4 c -0.26752,0.10681 -0.20464,0.51927 -0.20464,0.75138 v 1.89291 c 0,0.20472 -0.0624,0.55837 0.0827,0.72605 0.1568,0.1813 0.64614,0.0904 0.86351,0.0904 h 1.89291 c 0.24517,0 0.62176,0.0705 0.84956,-0.0274 0.23864,-0.10265 0.15245,-0.54414 0.15245,-0.75189 v -1.8557 c 0,-0.20057 0.0697,-0.56647 -0.0594,-0.73381 -0.16245,-0.2104 -0.63387,-0.11989 -0.86817,-0.11989 h -1.8557 c -0.1257,0 -0.28022,-0.0163 -0.43253,-0.0212 z m 7.27346,0 c -0.16727,-2.5e-4 -0.3416,0.0217 -0.45785,0.0217 h -1.8185 c -0.26406,0 -0.59787,-0.0543 -0.85266,0.0212 -0.30047,0.089 -0.22324,0.47851 -0.22324,0.72089 v 1.89291 c 0,0.20929 -0.0658,0.55872 0.0646,0.7369 0.15357,0.20984 0.6336,0.11679 0.86299,0.11679 h 1.89291 c 0.24806,0 0.61904,0.0688 0.85163,-0.0227 0.26172,-0.10296 0.18758,-0.4984 0.18758,-0.71986 v -1.9296 c 0,-0.2056 0.0689,-0.56724 -0.0904,-0.72657 -0.0893,-0.0893 -0.24975,-0.11136 -0.41703,-0.11162 z m 1.856735,0 c -0.152305,-0.005 -0.302665,0.002 -0.420645,0.0491 -0.27163,0.10849 -0.18655,0.51857 -0.18655,0.75138 v 1.89291 c 0,0.19514 -0.0705,0.56731 0.0646,0.72605 0.15447,0.18159 0.647888,0.0904 0.863516,0.0904 h 1.892389 c 0.245171,0 0.621724,0.0705 0.849562,-0.0274 0.241868,-0.10403 0.171047,-0.5415 0.171047,-0.75189 v -1.8557 c 0,-0.20803 0.0581,-0.55871 -0.07803,-0.73381 -0.16341,-0.21021 -0.633125,-0.11989 -0.868164,-0.11989 h -1.855701 c -0.125703,0 -0.279712,-0.0163 -0.432014,-0.0212 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2497ed;fill-opacity:1;stroke-width:0.264583"
+         x="55.940144"
+         y="213.53036"
+         id="text31979"><tspan
+           sodipodi:role="line"
+           id="tspan31977"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2497ed;fill-opacity:1;stroke-width:0.264583"
+           x="55.940144"
+           y="213.53036">docker rm</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:6.5094px;line-height:1.25;font-family:'B Nazanin';-inkscape-font-specification:'B Nazanin, Normal';fill:#d7eef4;fill-opacity:1;stroke-width:0.162734"
+       x="154.3954"
+       y="166.44824"
+       id="text40670"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5094px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d7eef4;fill-opacity:1;stroke-width:0.162734"
+         x="154.3954"
+         y="166.44824"
+         id="tspan370">➜  ~ docker rm --help</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5094px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d7eef4;fill-opacity:1;stroke-width:0.162734"
+         x="154.3954"
+         y="175.57318"
+         id="tspan7641" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5094px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d7eef4;fill-opacity:1;stroke-width:0.162734"
+         x="154.3954"
+         y="184.6981"
+         id="tspan7643">Usage:  docker rm [OPTIONS] CONTAINER [CONTAINER...]</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5094px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d7eef4;fill-opacity:1;stroke-width:0.162734"
+         x="154.3954"
+         y="193.82304"
+         id="tspan7645" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5094px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d7eef4;fill-opacity:1;stroke-width:0.162734"
+         x="154.3954"
+         y="202.94797"
+         id="tspan7647">Remove one or more containers</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5094px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d7eef4;fill-opacity:1;stroke-width:0.162734"
+         x="154.3954"
+         y="212.07291"
+         id="tspan7649" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5094px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d7eef4;fill-opacity:1;stroke-width:0.162734"
+         x="154.3954"
+         y="221.19783"
+         id="tspan7651">Options:</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5094px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d7eef4;fill-opacity:1;stroke-width:0.162734"
+         x="154.3954"
+         y="230.32277"
+         id="tspan7655">  -f, --force     Force the removal of a running container (uses SIGKILL)</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5094px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d7eef4;fill-opacity:1;stroke-width:0.162734"
+         x="154.3954"
+         y="239.44769"
+         id="tspan7657">  -v, --volumes   Remove anonymous volumes associated with the container</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5094px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d7eef4;fill-opacity:1;stroke-width:0.162734"
+         x="154.3954"
+         y="247.58444"
+         id="tspan7659" /></text>
+  </g>
+</svg>
